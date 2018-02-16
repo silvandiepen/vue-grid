@@ -1,0 +1,27 @@
+{
+	"settings":{
+		"max_size": 4096,
+		"total_columns": 24
+	},
+	"sizes": [{
+		"short": "s",
+		"name": "small",
+		"max": 750
+	}, {
+		"short": "m",
+		"name": "medium",
+		"max": 1280
+	}, {
+		"short": "l",
+		"name": "large",
+		"max": 1440
+	}, {
+		"short": "xl",
+		"name": "xlarge",
+		"max": 1920
+	}, {
+		"short": "xxl",
+		"name": "xxlarge",
+		"max": 9999
+	}]
+}

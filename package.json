@@ -1,0 +1,21 @@
+{
+  "name": "vue-grid",
+  "version": "0.0.1",
+  "description": "Component based grid system",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/silvandiepen/vue-grid"
+  },
+  "keywords": [
+    "vue",
+    "grid",
+    "components",
+    "viewport"
+  ],
+  "author": "Sil van Diepen",
+  "license": "ISC"
+}
